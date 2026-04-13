@@ -1,5 +1,5 @@
 ![logo](/logoTop.png)
-<img src="profile.png" width="300" style="float: right; width: 10em;" alt="Magnus photo"/>
+<img src="profile.png" style="float: right; width: 10em;" alt="Magnus photo"/>
 My name is Magnus and I work as researcher in engineering physics. In my daily work I do lecturing at Mid Sweden University but also offer my expertise on consultance level and this via my company Hummelgård Scientific AB. This allows myself to broaden my services outside the academic world, towards the business and entrepreneurial sphere.
 
 My experiences are built up from my research career where I experimentally worked extensively with advanced measurement techniques in materials physics. I received my PhD in 2009 with my thesis; In-situ TEM probing of namomaterials and the docent e.g., associate professor status in 2022. Through my work I have gained experience in electronics, computerized measurement systems, problem-solving and troubleshooting. From big complex machines such as electron microscopy to small purpose-built and hand-made measuring units and control systems. I am a specialist in electron microscopy, and over the past ten years been working with machines such as TEM, SEM and AFM. Mainly as operator but also been doing repair, troubleshooting and maintenance.
