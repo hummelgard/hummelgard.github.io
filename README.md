@@ -10,7 +10,7 @@ As scientists I have international experience and always been working in differe
 Best Regards
 
 Magnus Hummelgård
-
+<img src="profile.png" width="300" />
 ![Magnus photo](/profile.png)
 
 Hummelgård Scientific AB org.nr. 556923-5970
