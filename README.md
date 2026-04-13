@@ -14,7 +14,8 @@ Magnus Hummelgård
 
 <img src="profile.png" style="float: right; width: 10em;" alt="Magnus photo"/>
 
-Hummelgård Scientific AB org.nr. 556923-5970
+<B>Hummelgård Scientific AB</B>
+org.nr. 556923-5970
 SE-857 30 SUNDSVALL
 scientific.hummelgard.com
 magnusATscientific.hummelgard.com
